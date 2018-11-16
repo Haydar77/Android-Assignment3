@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">haydarshariff_COMP304Lab3</string>
+    <string name="btnText1">Canvas</string>
+    <string name="btnText2">Framed</string>
+    <string name="btnText3">Tween</string>
+
+    <string name="lineThickness">Line Thickness</string>
+    <string name="lineColor">Line Color</string>
+    <string name="arrowKey">Arrow Keys</string>
+    <string name="y">Y: %d</string>
+    <string name="Red">Red</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Green">Green</string>
+    <string name="help">Use key down or right to draw</string>
+</resources>
